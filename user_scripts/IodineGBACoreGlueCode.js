@@ -179,7 +179,7 @@ var games = {
     "wario_ware":"Wario Ware Inc",
     "ynfa":"Yggdra Union - We'll Never Fight Alone",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
-    "zelda_minish":"The Legend of Zelda: The Minish Cap"
+    "zelda_minish":"The Legend of Zelda: The Minish Cap",
     "ratatouille":"Ratatouille"
 };
 var Iodine = null;
